@@ -1,4 +1,4 @@
-# ⚡ EDA-schema-lib: Forja de Design Eletrônico e Automação
+# ⚡ EDA-schema-lib: Design Eletrônico e Automação
 
 > **Hub para Electronic Design Automation (EDA), focado em projetos de hardware, esquemáticos e layouts de PCB. Oferece bibliotecas de componentes e padrões de design para automação residencial e industrial, e sistemas embarcados.**
 
