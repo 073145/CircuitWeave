@@ -1,8 +1,8 @@
-# ⚡ EDA-schema-lib: Design Eletrônico e Automação
+# ⚡ Circuit Weave: Design Eletrônico e Automação
 
 > **Hub para Electronic Design Automation (EDA), focado em projetos de hardware, esquemáticos e layouts de PCB. Oferece bibliotecas de componentes e padrões de design para automação residencial e industrial, e sistemas embarcados.**
 
-Bem-vindo ao `EDA-schema-lib`\! Este repositório é seu laboratório de design eletrônico, um espaço dedicado à concepção, simulação e documentação de projetos de hardware. Da ideia inicial de um circuito à placa de circuito impresso (PCB) final, aqui você encontrará ferramentas, bibliotecas de componentes e projetos completos para construir soluções robustas de automação residencial e industrial, bem como sistemas embarcados customizados.
+Este repositório é seu laboratório de design eletrônico, um espaço dedicado à concepção, simulação e documentação de projetos de hardware. Da ideia inicial de um circuito à placa de circuito impresso (PCB) final, aqui você encontrará ferramentas, bibliotecas de componentes e projetos completos para construir soluções robustas de automação residencial e industrial, bem como sistemas embarcados customizados.
 
 ---
 
